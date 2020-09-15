@@ -1,0 +1,149 @@
+.content{height:90vh
+max-width: 100%;} 
+
+.bg{
+background-color:hsl(229, 57%, 11%);
+height:600px;
+width:1500px;
+}
+.image1{
+position:absolute;
+top:400px;
+
+}
+.box1{
+background-color:hsl(228, 56%, 26%);
+width:270px;
+height:160px;
+position:relative;
+bottom:300px;
+left:230px;
+border-radius:0 55px 0 0;
+}
+
+.box2{
+background-color:hsl(228, 56%, 26%);
+height:120px;
+width:530px;
+position:relative;
+bottom:437px;
+left:525px;
+border-radius:10px 10px 10px 10px;
+}
+
+.image2{
+height:20px;
+width:20px;
+position:absolute;
+left:32px;
+top:93px;
+border:8px solid hsl(229, 57%, 11%);
+border-radius:6px 6px 6px 6px;
+background-color:hsl(229, 57%, 11%);
+}
+
+.image3{
+height:20px;
+width:20px;
+position:absolute;
+left:82px;
+top:93px;
+border:8px solid hsl(229, 57%, 11%);
+border-radius:6px 6px 6px 6px;
+background-color:hsl(229, 57%, 11%);
+}
+
+.image4{
+height:20px;
+width:20px;
+position:absolute;
+left:130px;
+top:93px;
+border:8px solid hsl(229, 57%, 11%);
+border-radius:6px 6px 6px 6px;
+background-color:hsl(229, 57%, 11%);
+font-size:20px;
+}
+
+.image5{
+position:relative;
+top:30px;
+left:35px;
+}
+
+.box21{
+width:460px;
+height:15px;
+background-color:hsl(229, 57%, 11%);
+position:relative;
+left:28px;
+top:17px;
+border-radius:6px 6px 6px 6px;
+}
+
+.zero{
+color:silver;
+position:relative;
+right:328px;
+top:20px;
+
+
+}
+.thousand{
+color:silver;
+position:relative;
+left:50px;;
+top:20px;
+
+}
+.storage{
+color:silver;
+position:relative;
+left:34px;
+top:15px;
+}
+
+.box22{
+width:340px;
+height:15px;
+position:relative;
+left:28px;
+top:2px;
+border-radius:10px 10px 10px 10px;
+background:linear-gradient(hsl(6, 100%, 80%), hsl(335, 100%, 65%));
+}
+
+.dot{
+width:14px;
+height:13px;
+border-radius:100%;
+background-color:white;
+position:relative;
+left:325px;
+top:1px;
+}
+.hang{position:relative;
+left:300px;
+bottom:110px;
+display: flex;
+justify-content: center;
+align-items: center;
+width:150px;
+height:67px;
+background-color:white;
+border-radius:10px 10px 0 10px;}
+
+.one{font-size:30px;
+font-family:Helvetica;}
+
+.gig{color:grey;
+position:relative;
+left:5px;
+font-size:13px;
+}
+.mark-svg{
+position:relative;
+left:430px;
+bottom:110px;
+}
+  
